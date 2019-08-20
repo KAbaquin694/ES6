@@ -3,6 +3,8 @@
 var a = "Test1";
 let b = "Test2";
 
+() => consolo.log();
+
 const testVar = (params) => {
     const a = 30;
     if(true) {
